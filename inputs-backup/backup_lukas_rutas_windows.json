@@ -1,0 +1,16 @@
+{
+    "rutas_origen_destino": [
+    ["C:\\Users\\lucas\\projects",          "C\\Users\\lucas\\projects"],
+    ["C:\\Users\\lucas\\source",            "C\\Users\\lucas\\source"],
+    ["C:\\Users\\lucas\\Documents",         "C\\Users\\lucas\\Documents"],
+    ["C:\\Users\\lucas\\rust-lang",         "C\\Users\\lucas\\rust-lang"],
+    ["C:\\Users\\lucas\\haskell-lang",      "C\\Users\\lucas\\haskell-lang"],
+    ["C:\\Users\\lucas\\elm-lang",          "C\\Users\\lucas\\elm-lang"],
+    ["C:\\Users\\lucas\\cobol-lang",        "C\\Users\\lucas\\cobol-lang"],
+    ["C:\\Users\\lucas\\PycharmProjects",   "C\\Users\\lucas\\PycharmProjects"],
+    ["C:\\xcopy",                           "C\\xcopy"],
+    ["D:\\",                                "D"]
+  ],
+    "destino_final": "G:\\",
+    "name_disk": "BACKUP-LKS"
+}

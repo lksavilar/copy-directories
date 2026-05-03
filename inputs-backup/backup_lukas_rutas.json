@@ -1,0 +1,11 @@
+{
+    "rutas_origen_destino": [
+    ["/home/lukasar/rust_projects/",         "linux/rust_projects"],
+    ["/home/lukasar/rust-dioxus-docker/",    "linux/rust-dioxus-docker"],
+    ["/home/lukasar/dioxus-spa/",            "linux/dioxus-spa"],
+    ["/home/lukasar/python_projects/",       "linux/python_projects"]
+
+  ],
+    "destino_final": "/mnt/g/",
+    "name_disk": "BACKUP-LKS"
+}

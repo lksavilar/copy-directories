@@ -1,0 +1,5 @@
+{
+    "archivo_de_rutas": "./inputs-backup/backup_lukas_rutas.json",
+    "archivo_excluir_carpetas": "./inputs-backup/backup_lukas_excluir_carpetas.txt",
+    "apagar_equipo": "n"  
+}

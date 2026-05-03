@@ -1,0 +1,56 @@
+# Dependencias
+node_modules
+.pnpm-store
+
+# Build
+dist
+.next
+out
+build
+debug
+
+# Turbo
+.turbo
+
+# Entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode
+.idea
+*.swp
+*.swo
+
+# Rust
+target
+
+# Python
+.venv
+.pytest_cache
+
+# Svelte
+.svelte-kit
+
+# Prisma
+packages/db/generated
+
+# Git
+.git
+
+# Windows
+System Volume Information
+$RECYCLE.BIN
+$AV_NLL
+Recovery
+msdownld.tmp
